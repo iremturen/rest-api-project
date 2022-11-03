@@ -1,0 +1,5 @@
+logging:
+  level:
+    org.springframework.web: debug
+    org.springframework.jpa.datasource: debug
+  file: springrestapi.log
